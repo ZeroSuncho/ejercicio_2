@@ -1,0 +1,7 @@
+C:\Users\zeros\source\repos\Ejmplo02\Ejmplo02\bin\Debug\Ejmplo02.exe.config
+C:\Users\zeros\source\repos\Ejmplo02\Ejmplo02\bin\Debug\Ejmplo02.exe
+C:\Users\zeros\source\repos\Ejmplo02\Ejmplo02\bin\Debug\Ejmplo02.pdb
+C:\Users\zeros\source\repos\Ejmplo02\Ejmplo02\obj\Debug\Ejmplo02.csprojAssemblyReference.cache
+C:\Users\zeros\source\repos\Ejmplo02\Ejmplo02\obj\Debug\Ejmplo02.csproj.CoreCompileInputs.cache
+C:\Users\zeros\source\repos\Ejmplo02\Ejmplo02\obj\Debug\Ejmplo02.exe
+C:\Users\zeros\source\repos\Ejmplo02\Ejmplo02\obj\Debug\Ejmplo02.pdb
